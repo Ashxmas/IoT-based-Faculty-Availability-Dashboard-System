@@ -33,3 +33,11 @@
         Data sent over Bluetooth should be encrypted to prevent eavesdropping.
         The Wi-Fi connection should also be secure to prevent unauthorized access to the Azure cloud.
         The Azure Function should only accept data from authorized ESP32 devices.
+        
+ Other Repositories:
+    # Webapp:- https://github.com/Ashxmas/webapp
+    # Azure functions:
+        - Update Faculty Status:- https://github.com/Ashxmas/UpdateFacultyStatus
+        - Update Faculty List:- https://github.com/Ashxmas/updateFacultyList
+        - Revert Faculty Status:- https://github.com/Ashxmas/RevertFacultyStatus
+        (Still Working on minor issues)
